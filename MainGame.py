@@ -388,7 +388,7 @@ while running:
         scoretextrect = scoretext.get_rect(center = (1200,40))
         screen.blit(scoretext,scoretextrect)
 
-        
+  
     else:
         game_over()
 
