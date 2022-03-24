@@ -68,7 +68,7 @@ while True:
         instructions1 = fontI.render("Press 'Play' to start the game",True,(255,255,255))
         instructions2 = fontI.render("To play again, press anywhere on the 'Game Over' screen",True,(255,255,255))
         instructions3 = fontI.render("To exit the game, press 'Escape' or close the window",True,(255,255,255))
-        instructions4 = fontI.render("Press 'Q' to shoot, 'Left' and 'Right' to move and 'Space' to jump",True,(255,255,255))
+        instructions4 = fontI.render("Press 'Space' to shoot, 'Left' and 'Right' to move and 'Up' to jump",True,(255,255,255))
         instructions5 = fontI.render("Keep Sky alive as long as you can!",True,(255,255,255))
         instructions6 = fontI.render("Have Fun!",True,(255,255,255))
 
